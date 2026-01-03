@@ -1,0 +1,8 @@
+2026-01-03 08:44:23 - Arithematic App - DEBUG - Adding 10 + 15 = 25
+2026-01-03 08:44:23 - Arithematic App - DEBUG - Subtraction 15 - 10 = 5
+2026-01-03 08:44:23 - Arithematic App - DEBUG - Multiplication 25 * 25 = 625
+2026-01-03 08:44:23 - Arithematic App - DEBUG - Division 20 / 10 = 2.0
+2026-01-03 08:46:45 - Arithematic App - DEBUG - Adding 10 + 15 = 25
+2026-01-03 08:46:45 - Arithematic App - DEBUG - Subtraction 15 - 10 = 5
+2026-01-03 08:46:45 - Arithematic App - DEBUG - Multiplication 25 * 25 = 625
+2026-01-03 08:46:45 - Arithematic App - ERROR - Division By Zero Error

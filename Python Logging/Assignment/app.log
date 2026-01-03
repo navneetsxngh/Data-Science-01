@@ -1,0 +1,17 @@
+2026-01-03 08:53:36-root-DEBUG-This is a Debug Message
+2026-01-03 08:53:36-root-WARNING-This is a Warning Message
+2026-01-03 08:53:36-root-INFO-This is a Info Message
+2026-01-03 08:53:36-root-ERROR-This is an Error
+2026-01-03 08:53:36-root-CRITICAL-This is a Critical Message
+2026-01-03 08:56:27 - my_app - DEBUG - This is a debug message
+2026-01-03 08:56:27 - my_app - INFO - Application started
+2026-01-03 08:56:27 - my_app - WARNING - Low memory warning
+2026-01-03 08:56:27 - my_app - ERROR - Something went wrong
+2026-01-03 08:58:30 | DEBUG | Debugging details
+2026-01-03 08:58:30 | INFO | Application started
+2026-01-03 08:58:30 | WARNING | Disk space low
+2026-01-03 08:58:30 | ERROR | Unhandled exception occurred
+2026-01-03 08:58:32 | DEBUG | Debugging details
+2026-01-03 08:58:32 | INFO | Application started
+2026-01-03 08:58:32 | WARNING | Disk space low
+2026-01-03 08:58:32 | ERROR | Unhandled exception occurred
