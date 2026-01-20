@@ -10,3 +10,4 @@ statsmodels
 flask
 gunicorn
 mysql-connector-python
+xgboost
